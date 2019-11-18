@@ -52,7 +52,7 @@ Explore one of the interactive demos, and explore the tools available in the app
 Use your own data to create a visualization of your data, and tell a ‘story’ about it on Slack. The story is your explanation of what the data may mean.
 ***
 
-💬 If you have any questions, please Slack us during the week. See you all on 11/25. 😊
+💬 If you have any questions, please [Slack](https://la-umn.slack.com/?redir=%2Fgantry%2Fclient) us during the week. See you all on 11/25. 😊
 
 ***
 ![Visualization](https://media.giphy.com/media/3og0IExSrnfW2kUaaI/giphy.gif "Visualization")
