@@ -43,11 +43,11 @@ Note: This is a video from a workshop about data visualzation and visual analyti
 ### ✔️ 4. Activities - Explore visual analytics tools and tell a story of your data
   💭 Post your response in Slack \#2019-general channel. Think about how to make your story concise and please feel free to reply to peers.
 
-🔗 **[SAS](https://www.sas.com/en_us/software/visual-analytics/demo/network-performance/sample-report.html)**
+🔗 **[SAS](https://www.sas.com/en_us/software/visual-analytics/demo.html)**
 
 Explore one of the interactive demos, and explore the tools available in the application to see how the data changes, and how these changes can be used to gain new insight into your data.
 
-🔗 **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting)**
+🔗 **[Google Data Studio](https://datastudio.google.com/overview)**
 
 Use your own data to create a visualization of your data, and tell a ‘story’ about it on Slack. The story is your explanation of what the data may mean.
 ***
