@@ -22,7 +22,7 @@ During the past few weeks, we have played with several learning analytics tools,
 
 🔗 **[Why visual analytics?](https://cdn2.hubspot.net/hubfs/2383378/Tableau%20Whitepaper%20-%20Why%20Visual%20Analytics.pdf?t=1520904633993) \(Optional reading\)**
 
-❓ Please consider the following questions when you annotate the readings:
+❓ Please consider the following questions when you annotate the readings in [hypothes.is](https://hypothes.is/login):
 
 &nbsp;&nbsp;&nbsp;&nbsp; 💭  What are the differences between data visualization and visual analytics?
 
@@ -32,7 +32,7 @@ During the past few weeks, we have played with several learning analytics tools,
 
 
 ***
-### 📀 3. More videos on visual analytics
+### 📀 3. Webinar on visual analytics
 
 🔗 **[Introduction to Data Visualization](https://www.youtube.com/watch?v=Bq-b2yc0Tig&feature=youtu.be)**
 
