@@ -12,7 +12,7 @@ During the past few weeks, we have played with several learning analytics tools,
 
 &nbsp;&nbsp;&nbsp;&nbsp; 💭 Think about what is visual analytics, and its relationship with data visualization.
 
-🔗 **[What is Visual Analytics?](https://www.youtube.com/watch?v=LYKO_6KPZCM&feature=emb_logo){:target="_blank"}**
+🔗 **[What is Visual Analytics?](https://www.youtube.com/watch?v=LYKO_6KPZCM&feature=emb_logo target="_blank")**
 
 ***
 ### 📚 2. Readings and annotation
