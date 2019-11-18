@@ -48,6 +48,7 @@ Note: This is a video from a workshop about data visualzation and visual analyti
 Explore one of the interactive demos, and explore the tools available in the application to see how the data changes, and how these changes can be used to gain new insight into your data.
 
 🔗 **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting)**
+
 Use your own data to create a visualization of your data, and tell a ‘story’ about it on Slack. The story is your explanation of what the data may mean.
 ***
 
